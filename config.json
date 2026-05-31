@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicedpdate",
+        "uuid": 7280160,
+        "checksum": "qyctlpc"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
